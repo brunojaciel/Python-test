@@ -1,9 +1,9 @@
 Before
 
-![](images/bruno.jpg)
+![](imagens/bruno.jpg)
 
 After
 
-![](images/brunoresult.png)
+![](imagens/brunoresult.png)
 
 Thanks!
